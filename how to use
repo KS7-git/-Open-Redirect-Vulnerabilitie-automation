@@ -1,0 +1,12 @@
+go to chrome and type https://www.python.org/downloads/ 
+downlad python and set it up then downlad my tool zip file 
+make a new folder in your desktop name it   KS7 
+unzippcthe tool inside it 
+and make two txt files one name it subdoamins and other output 
+inside the subdomains file put a list of your target subdomains{EX:go to chatgpt and ask him to give you 10 subdomains of github.com one by one in a line }
+past them into your sudomains file 
+open cmd by clicking (CLTR+R AND TYPE CMD or click on windows and type it )
+in cmd type 
+cd desktop
+cd KS7
+tool.py
